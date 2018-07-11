@@ -1,0 +1,6 @@
+[submodule "spring-cloud-config"]
+	path = spring-cloud-config
+	url = git@github.com:cloud-ready/spring-cloud-config.git
+[submodule "spring-cloud-service-discovery"]
+	path = spring-cloud-service-discovery
+	url = git@github.com:cloud-ready/spring-cloud-service-discovery.git
