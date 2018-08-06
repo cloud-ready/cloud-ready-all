@@ -4,3 +4,9 @@
 [submodule "spring-cloud-service-discovery"]
 	path = spring-cloud-service-discovery
 	url = git@github.com:cloud-ready/spring-cloud-service-discovery.git
+[submodule "spring-boot-starter-redisson"]
+	path = spring-boot-starter-redisson
+	url = git@github.com:cloud-ready/spring-boot-starter-redisson.git
+[submodule "cloud-ready"]
+	path = cloud-ready
+	url = git@github.com:cloud-ready/cloud-ready.git
