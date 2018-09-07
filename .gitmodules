@@ -10,3 +10,12 @@
 [submodule "cloud-ready"]
 	path = cloud-ready
 	url = git@github.com:cloud-ready/cloud-ready.git
+[submodule "spring-boot-starter-rate-limiter"]
+	path = spring-boot-starter-rate-limiter
+	url = git@github.com:cloud-ready/spring-boot-starter-rate-limiter.git
+[submodule "cloud-ready-parent"]
+	path = cloud-ready-parent
+	url = git@github.com:cloud-ready/cloud-ready-parent.git
+[submodule "spring-boot-errorhandle"]
+	path = spring-boot-errorhandle
+	url = git@github.com:cloud-ready/spring-boot-errorhandle.git
