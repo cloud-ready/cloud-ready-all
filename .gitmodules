@@ -16,9 +16,9 @@
 [submodule "cloud-ready-parent"]
 	path = cloud-ready-parent
 	url = git@github.com:cloud-ready/cloud-ready-parent.git
-[submodule "spring-boot-jackson2"]
-        path = spring-boot-jackson2
-        url = git@github.com:cloud-ready/spring-boot-jackson2.git
 [submodule "spring-boot-errorhandle"]
 	path = spring-boot-errorhandle
 	url = git@github.com:cloud-ready/spring-boot-errorhandle.git
+[submodule "spring-boot-jackson2"]
+	path = spring-boot-jackson2
+	url = git@github.com:cloud-ready/spring-boot-jackson2.git
