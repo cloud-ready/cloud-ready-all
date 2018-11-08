@@ -22,3 +22,7 @@
 [submodule "spring-boot-jackson2"]
 	path = spring-boot-jackson2
 	url = git@github.com:cloud-ready/spring-boot-jackson2.git
+[submodule "spring-boot-admin"]
+	path = spring-boot-admin
+	url = git@github.com:cloud-ready/spring-boot-admin.git
+	branch = master
