@@ -26,3 +26,7 @@
 	path = spring-boot-admin
 	url = git@github.com:cloud-ready/spring-boot-admin.git
 	branch = master
+[submodule "sample-activity-application"]
+	path = sample-activity-application
+	url = git@github.com:chshawkn/sample-activity-application.git
+	branch = develop
