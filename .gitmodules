@@ -30,3 +30,11 @@
 	path = sample-activity-application
 	url = git@github.com:chshawkn/sample-activity-application.git
 	branch = develop
+[submodule "cat"]
+	path = cat
+	url = git@github.com:cloud-ready/cat.git
+	branch = dockerimage
+[submodule "flake-guid"]
+	path = flake-guid
+	url = git@github.com:cloud-ready/flake-guid.git
+	branch = develop
